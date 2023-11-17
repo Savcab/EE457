@@ -1,0 +1,8 @@
+Z:/Desktop/EE457/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v {1 {vlog -work work -vopt -stats=none Z:/Desktop/EE457/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v
+QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module ee457_lab7_P3_tb
+
+Top level modules:
+	ee457_lab7_P3_tb
+
+} {} {}}
